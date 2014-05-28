@@ -1,1 +1,1 @@
-Всем привет!!!
+Приложение для http://404-school.com/klyutch.html
